@@ -1,17 +1,1 @@
-[Event "Rated Classical game"]
-[Site "https://lichess.org/j07Q5uP1"]
-[Date "2022.01.20"]
-[White "hellboy500"]
-[Black "mate_in_64"]
-[Result "*"]
-[UTCDate "2022.01.20"]
-[UTCTime "22:46:40"]
-[WhiteElo "1892"]
-[BlackElo "1905"]
-[Variant "Standard"]
-[TimeControl "1800+0"]
-[ECO "A45"]
-[Opening "Indian Defense"]
-[Termination "Unterminated"]
-
-1. d4 { [%clk 0:30:00] } 1... Nf6 { [%clk 0:30:00] } 2. e3 { [%clk 0:29:58] } 2... c5 { [%clk 0:29:55] } 3. Bd3 { [%clk 0:29:53] } 3... Nc6 { [%clk 0:29:41] } 4. c3 { [%clk 0:29:51] } 4... e5 { [%clk 0:29:10] } 5. dxe5 { [%clk 0:28:56] } 5... Nxe5 { [%clk 0:29:10] } 6. Be2 { [%clk 0:28:50] } 6... d5 { [%clk 0:28:51] } 7. Nf3 { [%clk 0:28:33] } 7... Bd6 { [%clk 0:28:26] } 8. O-O { [%clk 0:28:28] } 8... Qc7 { [%clk 0:28:20] } 9. Na3 { [%clk 0:28:16] } 9... Nxf3+ { [%clk 0:28:16] } 10. Bxf3 { [%clk 0:28:12] } 10... Bxh2+ { [%clk 0:28:16] } 11. Kh1 { [%clk 0:28:11] } 11... h5 { [%clk 0:27:21] } 12. Re1 { [%clk 0:27:33] } 12... Bg4 { [%clk 0:26:36] } 13. Qa4+ { [%clk 0:26:41] } 13... Bd7 { [%clk 0:25:05] } *
+j07Q5uP1
