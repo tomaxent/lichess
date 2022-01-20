@@ -15,3 +15,21 @@
 [Termination "Unterminated"]
 
 1. d4 { [%clk 0:30:00] } 1... Nf6 { [%clk 0:30:00] } 2. e3 { [%clk 0:29:58] } 2... c5 { [%clk 0:29:55] } 3. Bd3 { [%clk 0:29:53] } 3... Nc6 { [%clk 0:29:41] } 4. c3 { [%clk 0:29:51] } 4... e5 { [%clk 0:29:10] } 5. dxe5 { [%clk 0:28:56] } 5... Nxe5 { [%clk 0:29:10] } 6. Be2 { [%clk 0:28:50] } 6... d5 { [%clk 0:28:51] } 7. Nf3 { [%clk 0:28:33] } 7... Bd6 { [%clk 0:28:26] } 8. O-O { [%clk 0:28:28] } 8... Qc7 { [%clk 0:28:20] } 9. Na3 { [%clk 0:28:16] } 9... Nxf3+ { [%clk 0:28:16] } 10. Bxf3 { [%clk 0:28:12] } 10... Bxh2+ { [%clk 0:28:16] } 11. Kh1 { [%clk 0:28:11] } 11... h5 { [%clk 0:27:21] } 12. Re1 { [%clk 0:27:33] } 12... Bg4 { [%clk 0:26:36] } 13. Qa4+ { [%clk 0:26:41] } 13... Bd7 { [%clk 0:25:05] } 14. Ng4 { [%clk 0:22:01] } *
+
+[Event "Rated Rapid game"]
+[Site "https://lichess.org/yLSA4wmx"]
+[Date "2022.01.20"]
+[White "Trrak55"]
+[Black "Sinus314159"]
+[Result "*"]
+[UTCDate "2022.01.20"]
+[UTCTime "23:11:37"]
+[WhiteElo "2340"]
+[BlackElo "2181"]
+[Variant "Standard"]
+[TimeControl "480+4"]
+[ECO "D02"]
+[Opening "Queen's Pawn Game: Zukertort Variation"]
+[Termination "Unterminated"]
+
+1. Nf3 { [%clk 0:08:00] } 1... d5 { [%clk 0:08:00] } 2. d4 { [%clk 0:08:03] } 2... e6 { [%clk 0:08:04] } 3. Bg5 { [%clk 0:08:04] } 3... Nf6 { [%clk 0:08:07] } 4. Nbd2 { [%clk 0:08:06] } 4... Be7 { [%clk 0:08:09] } 5. e3 { [%clk 0:08:08] } 5... O-O { [%clk 0:08:11] } 6. Bd3 { [%clk 0:08:10] } 6... c6 { [%clk 0:08:14] } 7. Qe2 { [%clk 0:08:10] } 7... Nbd7 { [%clk 0:08:15] } 8. Rd1 { [%clk 0:08:13] } 8... Qc7 { [%clk 0:07:59] } 9. e4 { [%clk 0:08:08] } 9... dxe4 { [%clk 0:08:02] } 10. Nxe4 { [%clk 0:08:10] } 10... Re8 { [%clk 0:07:55] } 11. h4 { [%clk 0:08:01] } 11... Nxe4 { [%clk 0:07:58] } 12. Qxe4 { [%clk 0:08:02] } 12... g6 { [%clk 0:07:44] } 13. h5 { [%clk 0:07:46] } 13... Bxg5 { [%clk 0:07:37] } 14. Nxg5 { [%clk 0:07:35] } *
