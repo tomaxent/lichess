@@ -20,7 +20,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:09:59] } 4... d6 { [%clk 0:09:59] } 5. Be2 { [%clk 0:09:56] } 5... O-O { [%clk 0:09:58] } 6. f4 { [%clk 0:09:54] } 6... c5 { [%clk 0:09:57] } 7. Be3 { [%clk 0:09:49] } 7... cxd4 { [%clk 0:09:55] } 8. Bxd4 { [%clk 0:09:48] } 8... Nc6 { [%clk 0:09:55] } 9. Be3 { [%clk 0:09:47] } 9... Qa5 { [%clk 0:09:52] } 10. Qd2 { [%clk 0:09:41] } 10... Ng4 { [%clk 0:09:49] } 11. Bxg4 { [%clk 0:09:39] } 11... Bxg4 { [%clk 0:09:49] } 12. Nf3 { [%clk 0:09:38] } 12... Bxf3 { [%clk 0:09:48] } 13. gxf3 { [%clk 0:09:37] } 13... Rfc8 { [%clk 0:09:44] } 14. O-O { [%clk 0:09:13] } 14... Bxc3 { [%clk 0:09:29] } 15. bxc3 { [%clk 0:09:03] } 15... b6 { [%clk 0:09:21] } 16. Kh1 { [%clk 0:09:00] } 16... Qa4 { [%clk 0:09:18] } 17. f5 { [%clk 0:08:53] } 17... Qxc4 { [%clk 0:09:16] } 18. Rac1 { [%clk 0:08:34] } 18... Ne5 { [%clk 0:08:58] } 19. Bd4 { [%clk 0:08:23] } 19... Qd3 { [%clk 0:08:47] } 20. Qh6 { [%clk 0:08:07] } 20... Rc4 { [%clk 0:08:18] } 21. Rcd1 { [%clk 0:08:02] } 21... Qe2 { [%clk 0:07:58] } 22. Rde1 { [%clk 0:08:00] } 22... Qxa2 { [%clk 0:07:16] } 23. f4 { [%clk 0:07:51] } 23... Rxd4 { [%clk 0:07:07] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/uuUMJFMM"]
 [Date "2022.01.20"]
 [White "Master_Glader"]
@@ -62,7 +62,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/uuUMJFMM"]
 [Date "2022.01.20"]
 [White "Master_Glader"]
@@ -104,7 +104,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/uuUMJFMM"]
 [Date "2022.01.20"]
 [White "Master_Glader"]
@@ -125,7 +125,7 @@
 3. Nc3 { [%clk 0:05:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:04:58] } 4... O-O { [%clk 0:09:58] } 5. h3 { [%clk 0:04:57] } 5... c6 { [%clk 0:09:50] } 6. Nf3 { [%clk 0:04:57] } 6... d5 { [%clk 0:09:44] } 7. e5 { [%clk 0:04:56] } 7... Ne4 { [%clk 0:09:43] } 8. Bd3 { [%clk 0:04:55] } 8... Bf5 { [%clk 0:09:26] } 9. O-O { [%clk 0:04:52] } 9... Qa5 { [%clk 0:08:27] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -146,7 +146,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/uuUMJFMM"]
 [Date "2022.01.20"]
 [White "Master_Glader"]
@@ -167,7 +167,7 @@
 3. Nc3 { [%clk 0:05:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:04:58] } 4... O-O { [%clk 0:09:58] } 5. h3 { [%clk 0:04:57] } 5... c6 { [%clk 0:09:50] } 6. Nf3 { [%clk 0:04:57] } 6... d5 { [%clk 0:09:44] } 7. e5 { [%clk 0:04:56] } 7... Ne4 { [%clk 0:09:43] } 8. Bd3 { [%clk 0:04:55] } 8... Bf5 { [%clk 0:09:26] } 9. O-O { [%clk 0:04:52] } 9... Qa5 { [%clk 0:08:27] } 10. Qc2 { [%clk 0:04:43] } 10... Nxc3 { [%clk 0:08:18] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -188,7 +188,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } 6. e5 { [%clk 0:09:51] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -209,7 +209,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } 6. e5 { [%clk 0:09:51] } 6... Ne8 { [%clk 0:04:52] } 7. d5 { [%clk 0:09:49] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/uuUMJFMM"]
 [Date "2022.01.20"]
 [White "Master_Glader"]
@@ -230,7 +230,7 @@
 3. Nc3 { [%clk 0:05:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:04:58] } 4... O-O { [%clk 0:09:58] } 5. h3 { [%clk 0:04:57] } 5... c6 { [%clk 0:09:50] } 6. Nf3 { [%clk 0:04:57] } 6... d5 { [%clk 0:09:44] } 7. e5 { [%clk 0:04:56] } 7... Ne4 { [%clk 0:09:43] } 8. Bd3 { [%clk 0:04:55] } 8... Bf5 { [%clk 0:09:26] } 9. O-O { [%clk 0:04:52] } 9... Qa5 { [%clk 0:08:27] } 10. Qc2 { [%clk 0:04:43] } 10... Nxc3 { [%clk 0:08:18] } 11. bxc3 { [%clk 0:04:43] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -251,7 +251,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } 6. e5 { [%clk 0:09:51] } 6... Ne8 { [%clk 0:04:52] } 7. d5 { [%clk 0:09:49] } 7... a6 { [%clk 0:04:41] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -272,7 +272,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } 6. e5 { [%clk 0:09:51] } 6... Ne8 { [%clk 0:04:52] } 7. d5 { [%clk 0:09:49] } 7... a6 { [%clk 0:04:41] } 8. Be2 { [%clk 0:09:44] } 8... d6 { [%clk 0:04:40] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -293,7 +293,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } 6. e5 { [%clk 0:09:51] } 6... Ne8 { [%clk 0:04:52] } 7. d5 { [%clk 0:09:49] } 7... a6 { [%clk 0:04:41] } 8. Be2 { [%clk 0:09:44] } 8... d6 { [%clk 0:04:40] } 9. Bf4 { [%clk 0:09:40] } 9... dxe5 { [%clk 0:04:36] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/uuUMJFMM"]
 [Date "2022.01.20"]
 [White "Master_Glader"]
@@ -314,7 +314,7 @@
 3. Nc3 { [%clk 0:05:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:04:58] } 4... O-O { [%clk 0:09:58] } 5. h3 { [%clk 0:04:57] } 5... c6 { [%clk 0:09:50] } 6. Nf3 { [%clk 0:04:57] } 6... d5 { [%clk 0:09:44] } 7. e5 { [%clk 0:04:56] } 7... Ne4 { [%clk 0:09:43] } 8. Bd3 { [%clk 0:04:55] } 8... Bf5 { [%clk 0:09:26] } 9. O-O { [%clk 0:04:52] } 9... Qa5 { [%clk 0:08:27] } 10. Qc2 { [%clk 0:04:43] } 10... Nxc3 { [%clk 0:08:18] } 11. bxc3 { [%clk 0:04:43] } 11... Bxd3 { [%clk 0:08:01] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -335,7 +335,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } 6. e5 { [%clk 0:09:51] } 6... Ne8 { [%clk 0:04:52] } 7. d5 { [%clk 0:09:49] } 7... a6 { [%clk 0:04:41] } 8. Be2 { [%clk 0:09:44] } 8... d6 { [%clk 0:04:40] } 9. Bf4 { [%clk 0:09:40] } 9... dxe5 { [%clk 0:04:36] } 10. Nxe5 { [%clk 0:09:37] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/uuUMJFMM"]
 [Date "2022.01.20"]
 [White "Master_Glader"]
@@ -356,7 +356,7 @@
 3. Nc3 { [%clk 0:05:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:04:58] } 4... O-O { [%clk 0:09:58] } 5. h3 { [%clk 0:04:57] } 5... c6 { [%clk 0:09:50] } 6. Nf3 { [%clk 0:04:57] } 6... d5 { [%clk 0:09:44] } 7. e5 { [%clk 0:04:56] } 7... Ne4 { [%clk 0:09:43] } 8. Bd3 { [%clk 0:04:55] } 8... Bf5 { [%clk 0:09:26] } 9. O-O { [%clk 0:04:52] } 9... Qa5 { [%clk 0:08:27] } 10. Qc2 { [%clk 0:04:43] } 10... Nxc3 { [%clk 0:08:18] } 11. bxc3 { [%clk 0:04:43] } 11... Bxd3 { [%clk 0:08:01] } 12. Qxd3 { [%clk 0:04:43] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -377,7 +377,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } 6. e5 { [%clk 0:09:51] } 6... Ne8 { [%clk 0:04:52] } 7. d5 { [%clk 0:09:49] } 7... a6 { [%clk 0:04:41] } 8. Be2 { [%clk 0:09:44] } 8... d6 { [%clk 0:04:40] } 9. Bf4 { [%clk 0:09:40] } 9... dxe5 { [%clk 0:04:36] } 10. Nxe5 { [%clk 0:09:37] } 10... Nd6 { [%clk 0:04:32] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/uuUMJFMM"]
 [Date "2022.01.20"]
 [White "Master_Glader"]
@@ -398,7 +398,7 @@
 3. Nc3 { [%clk 0:05:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:04:58] } 4... O-O { [%clk 0:09:58] } 5. h3 { [%clk 0:04:57] } 5... c6 { [%clk 0:09:50] } 6. Nf3 { [%clk 0:04:57] } 6... d5 { [%clk 0:09:44] } 7. e5 { [%clk 0:04:56] } 7... Ne4 { [%clk 0:09:43] } 8. Bd3 { [%clk 0:04:55] } 8... Bf5 { [%clk 0:09:26] } 9. O-O { [%clk 0:04:52] } 9... Qa5 { [%clk 0:08:27] } 10. Qc2 { [%clk 0:04:43] } 10... Nxc3 { [%clk 0:08:18] } 11. bxc3 { [%clk 0:04:43] } 11... Bxd3 { [%clk 0:08:01] } 12. Qxd3 { [%clk 0:04:43] } 12... Qa6 { [%clk 0:07:45] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -419,7 +419,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } 6. e5 { [%clk 0:09:51] } 6... Ne8 { [%clk 0:04:52] } 7. d5 { [%clk 0:09:49] } 7... a6 { [%clk 0:04:41] } 8. Be2 { [%clk 0:09:44] } 8... d6 { [%clk 0:04:40] } 9. Bf4 { [%clk 0:09:40] } 9... dxe5 { [%clk 0:04:36] } 10. Nxe5 { [%clk 0:09:37] } 10... Nd6 { [%clk 0:04:32] } 11. O-O { [%clk 0:09:32] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/aobG1dIs"]
 [Date "2022.01.20"]
 [White "doniafendi"]
@@ -441,7 +441,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:09:59] } 4... d6 { [%clk 0:09:59] } 5. Be2 { [%clk 0:09:56] } 5... O-O { [%clk 0:09:58] } 6. f4 { [%clk 0:09:54] } 6... c5 { [%clk 0:09:57] } 7. Be3 { [%clk 0:09:49] } 7... cxd4 { [%clk 0:09:55] } 8. Bxd4 { [%clk 0:09:48] } 8... Nc6 { [%clk 0:09:55] } 9. Be3 { [%clk 0:09:47] } 9... Qa5 { [%clk 0:09:52] } 10. Qd2 { [%clk 0:09:41] } 10... Ng4 { [%clk 0:09:49] } 11. Bxg4 { [%clk 0:09:39] } 11... Bxg4 { [%clk 0:09:49] } 12. Nf3 { [%clk 0:09:38] } 12... Bxf3 { [%clk 0:09:48] } 13. gxf3 { [%clk 0:09:37] } 13... Rfc8 { [%clk 0:09:44] } 14. O-O { [%clk 0:09:13] } 14... Bxc3 { [%clk 0:09:29] } 15. bxc3 { [%clk 0:09:03] } 15... b6 { [%clk 0:09:21] } 16. Kh1 { [%clk 0:09:00] } 16... Qa4 { [%clk 0:09:18] } 17. f5 { [%clk 0:08:53] } 17... Qxc4 { [%clk 0:09:16] } 18. Rac1 { [%clk 0:08:34] } 18... Ne5 { [%clk 0:08:58] } 19. Bd4 { [%clk 0:08:23] } 19... Qd3 { [%clk 0:08:47] } 20. Qh6 { [%clk 0:08:07] } 20... Rc4 { [%clk 0:08:18] } 21. Rcd1 { [%clk 0:08:02] } 21... Qe2 { [%clk 0:07:58] } 22. Rde1 { [%clk 0:08:00] } 22... Qxa2 { [%clk 0:07:16] } 23. f4 { [%clk 0:07:51] } 23... Rxd4 { [%clk 0:07:07] } 24. fxe5 { [%clk 0:07:36] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/uuUMJFMM"]
 [Date "2022.01.20"]
 [White "Master_Glader"]
@@ -462,7 +462,7 @@
 3. Nc3 { [%clk 0:05:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:04:58] } 4... O-O { [%clk 0:09:58] } 5. h3 { [%clk 0:04:57] } 5... c6 { [%clk 0:09:50] } 6. Nf3 { [%clk 0:04:57] } 6... d5 { [%clk 0:09:44] } 7. e5 { [%clk 0:04:56] } 7... Ne4 { [%clk 0:09:43] } 8. Bd3 { [%clk 0:04:55] } 8... Bf5 { [%clk 0:09:26] } 9. O-O { [%clk 0:04:52] } 9... Qa5 { [%clk 0:08:27] } 10. Qc2 { [%clk 0:04:43] } 10... Nxc3 { [%clk 0:08:18] } 11. bxc3 { [%clk 0:04:43] } 11... Bxd3 { [%clk 0:08:01] } 12. Qxd3 { [%clk 0:04:43] } 12... Qa6 { [%clk 0:07:45] } 13. Bg5 { [%clk 0:04:22] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -483,7 +483,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } 6. e5 { [%clk 0:09:51] } 6... Ne8 { [%clk 0:04:52] } 7. d5 { [%clk 0:09:49] } 7... a6 { [%clk 0:04:41] } 8. Be2 { [%clk 0:09:44] } 8... d6 { [%clk 0:04:40] } 9. Bf4 { [%clk 0:09:40] } 9... dxe5 { [%clk 0:04:36] } 10. Nxe5 { [%clk 0:09:37] } 10... Nd6 { [%clk 0:04:32] } 11. O-O { [%clk 0:09:32] } 11... Nd7 { [%clk 0:04:19] } 12. Nf3 { [%clk 0:09:27] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/aobG1dIs"]
 [Date "2022.01.20"]
 [White "doniafendi"]
@@ -505,7 +505,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:09:59] } 4... d6 { [%clk 0:09:59] } 5. Be2 { [%clk 0:09:56] } 5... O-O { [%clk 0:09:58] } 6. f4 { [%clk 0:09:54] } 6... c5 { [%clk 0:09:57] } 7. Be3 { [%clk 0:09:49] } 7... cxd4 { [%clk 0:09:55] } 8. Bxd4 { [%clk 0:09:48] } 8... Nc6 { [%clk 0:09:55] } 9. Be3 { [%clk 0:09:47] } 9... Qa5 { [%clk 0:09:52] } 10. Qd2 { [%clk 0:09:41] } 10... Ng4 { [%clk 0:09:49] } 11. Bxg4 { [%clk 0:09:39] } 11... Bxg4 { [%clk 0:09:49] } 12. Nf3 { [%clk 0:09:38] } 12... Bxf3 { [%clk 0:09:48] } 13. gxf3 { [%clk 0:09:37] } 13... Rfc8 { [%clk 0:09:44] } 14. O-O { [%clk 0:09:13] } 14... Bxc3 { [%clk 0:09:29] } 15. bxc3 { [%clk 0:09:03] } 15... b6 { [%clk 0:09:21] } 16. Kh1 { [%clk 0:09:00] } 16... Qa4 { [%clk 0:09:18] } 17. f5 { [%clk 0:08:53] } 17... Qxc4 { [%clk 0:09:16] } 18. Rac1 { [%clk 0:08:34] } 18... Ne5 { [%clk 0:08:58] } 19. Bd4 { [%clk 0:08:23] } 19... Qd3 { [%clk 0:08:47] } 20. Qh6 { [%clk 0:08:07] } 20... Rc4 { [%clk 0:08:18] } 21. Rcd1 { [%clk 0:08:02] } 21... Qe2 { [%clk 0:07:58] } 22. Rde1 { [%clk 0:08:00] } 22... Qxa2 { [%clk 0:07:16] } 23. f4 { [%clk 0:07:51] } 23... Rxd4 { [%clk 0:07:07] } 24. fxe5 { [%clk 0:07:36] } 24... Qd2 { [%clk 0:06:38] } 25. Re3 { [%clk 0:07:13] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -526,7 +526,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } 6. e5 { [%clk 0:09:51] } 6... Ne8 { [%clk 0:04:52] } 7. d5 { [%clk 0:09:49] } 7... a6 { [%clk 0:04:41] } 8. Be2 { [%clk 0:09:44] } 8... d6 { [%clk 0:04:40] } 9. Bf4 { [%clk 0:09:40] } 9... dxe5 { [%clk 0:04:36] } 10. Nxe5 { [%clk 0:09:37] } 10... Nd6 { [%clk 0:04:32] } 11. O-O { [%clk 0:09:32] } 11... Nd7 { [%clk 0:04:19] } 12. Nf3 { [%clk 0:09:27] } 12... Nf6 { [%clk 0:04:10] } 13. h3 { [%clk 0:09:25] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/aobG1dIs"]
 [Date "2022.01.20"]
 [White "doniafendi"]
@@ -548,7 +548,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:09:59] } 4... d6 { [%clk 0:09:59] } 5. Be2 { [%clk 0:09:56] } 5... O-O { [%clk 0:09:58] } 6. f4 { [%clk 0:09:54] } 6... c5 { [%clk 0:09:57] } 7. Be3 { [%clk 0:09:49] } 7... cxd4 { [%clk 0:09:55] } 8. Bxd4 { [%clk 0:09:48] } 8... Nc6 { [%clk 0:09:55] } 9. Be3 { [%clk 0:09:47] } 9... Qa5 { [%clk 0:09:52] } 10. Qd2 { [%clk 0:09:41] } 10... Ng4 { [%clk 0:09:49] } 11. Bxg4 { [%clk 0:09:39] } 11... Bxg4 { [%clk 0:09:49] } 12. Nf3 { [%clk 0:09:38] } 12... Bxf3 { [%clk 0:09:48] } 13. gxf3 { [%clk 0:09:37] } 13... Rfc8 { [%clk 0:09:44] } 14. O-O { [%clk 0:09:13] } 14... Bxc3 { [%clk 0:09:29] } 15. bxc3 { [%clk 0:09:03] } 15... b6 { [%clk 0:09:21] } 16. Kh1 { [%clk 0:09:00] } 16... Qa4 { [%clk 0:09:18] } 17. f5 { [%clk 0:08:53] } 17... Qxc4 { [%clk 0:09:16] } 18. Rac1 { [%clk 0:08:34] } 18... Ne5 { [%clk 0:08:58] } 19. Bd4 { [%clk 0:08:23] } 19... Qd3 { [%clk 0:08:47] } 20. Qh6 { [%clk 0:08:07] } 20... Rc4 { [%clk 0:08:18] } 21. Rcd1 { [%clk 0:08:02] } 21... Qe2 { [%clk 0:07:58] } 22. Rde1 { [%clk 0:08:00] } 22... Qxa2 { [%clk 0:07:16] } 23. f4 { [%clk 0:07:51] } 23... Rxd4 { [%clk 0:07:07] } 24. fxe5 { [%clk 0:07:36] } 24... Qd2 { [%clk 0:06:38] } 25. Re3 { [%clk 0:07:13] } 25... dxe5 { [%clk 0:04:29] } 26. cxd4 { [%clk 0:07:11] } 26... exd4 { [%clk 0:04:28] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/uuUMJFMM"]
 [Date "2022.01.20"]
 [White "Master_Glader"]
@@ -569,7 +569,7 @@
 3. Nc3 { [%clk 0:05:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:04:58] } 4... O-O { [%clk 0:09:58] } 5. h3 { [%clk 0:04:57] } 5... c6 { [%clk 0:09:50] } 6. Nf3 { [%clk 0:04:57] } 6... d5 { [%clk 0:09:44] } 7. e5 { [%clk 0:04:56] } 7... Ne4 { [%clk 0:09:43] } 8. Bd3 { [%clk 0:04:55] } 8... Bf5 { [%clk 0:09:26] } 9. O-O { [%clk 0:04:52] } 9... Qa5 { [%clk 0:08:27] } 10. Qc2 { [%clk 0:04:43] } 10... Nxc3 { [%clk 0:08:18] } 11. bxc3 { [%clk 0:04:43] } 11... Bxd3 { [%clk 0:08:01] } 12. Qxd3 { [%clk 0:04:43] } 12... Qa6 { [%clk 0:07:45] } 13. Bg5 { [%clk 0:04:22] } 13... f6 { [%clk 0:07:38] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -590,7 +590,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } 6. e5 { [%clk 0:09:51] } 6... Ne8 { [%clk 0:04:52] } 7. d5 { [%clk 0:09:49] } 7... a6 { [%clk 0:04:41] } 8. Be2 { [%clk 0:09:44] } 8... d6 { [%clk 0:04:40] } 9. Bf4 { [%clk 0:09:40] } 9... dxe5 { [%clk 0:04:36] } 10. Nxe5 { [%clk 0:09:37] } 10... Nd6 { [%clk 0:04:32] } 11. O-O { [%clk 0:09:32] } 11... Nd7 { [%clk 0:04:19] } 12. Nf3 { [%clk 0:09:27] } 12... Nf6 { [%clk 0:04:10] } 13. h3 { [%clk 0:09:25] } 13... h5 { [%clk 0:04:08] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/aobG1dIs"]
 [Date "2022.01.20"]
 [White "doniafendi"]
@@ -612,7 +612,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:09:59] } 4... d6 { [%clk 0:09:59] } 5. Be2 { [%clk 0:09:56] } 5... O-O { [%clk 0:09:58] } 6. f4 { [%clk 0:09:54] } 6... c5 { [%clk 0:09:57] } 7. Be3 { [%clk 0:09:49] } 7... cxd4 { [%clk 0:09:55] } 8. Bxd4 { [%clk 0:09:48] } 8... Nc6 { [%clk 0:09:55] } 9. Be3 { [%clk 0:09:47] } 9... Qa5 { [%clk 0:09:52] } 10. Qd2 { [%clk 0:09:41] } 10... Ng4 { [%clk 0:09:49] } 11. Bxg4 { [%clk 0:09:39] } 11... Bxg4 { [%clk 0:09:49] } 12. Nf3 { [%clk 0:09:38] } 12... Bxf3 { [%clk 0:09:48] } 13. gxf3 { [%clk 0:09:37] } 13... Rfc8 { [%clk 0:09:44] } 14. O-O { [%clk 0:09:13] } 14... Bxc3 { [%clk 0:09:29] } 15. bxc3 { [%clk 0:09:03] } 15... b6 { [%clk 0:09:21] } 16. Kh1 { [%clk 0:09:00] } 16... Qa4 { [%clk 0:09:18] } 17. f5 { [%clk 0:08:53] } 17... Qxc4 { [%clk 0:09:16] } 18. Rac1 { [%clk 0:08:34] } 18... Ne5 { [%clk 0:08:58] } 19. Bd4 { [%clk 0:08:23] } 19... Qd3 { [%clk 0:08:47] } 20. Qh6 { [%clk 0:08:07] } 20... Rc4 { [%clk 0:08:18] } 21. Rcd1 { [%clk 0:08:02] } 21... Qe2 { [%clk 0:07:58] } 22. Rde1 { [%clk 0:08:00] } 22... Qxa2 { [%clk 0:07:16] } 23. f4 { [%clk 0:07:51] } 23... Rxd4 { [%clk 0:07:07] } 24. fxe5 { [%clk 0:07:36] } 24... Qd2 { [%clk 0:06:38] } 25. Re3 { [%clk 0:07:13] } 25... dxe5 { [%clk 0:04:29] } 26. cxd4 { [%clk 0:07:11] } 26... exd4 { [%clk 0:04:28] } 27. Rh3 { [%clk 0:07:05] } 27... Qxh6 { [%clk 0:04:26] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -633,7 +633,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } 6. e5 { [%clk 0:09:51] } 6... Ne8 { [%clk 0:04:52] } 7. d5 { [%clk 0:09:49] } 7... a6 { [%clk 0:04:41] } 8. Be2 { [%clk 0:09:44] } 8... d6 { [%clk 0:04:40] } 9. Bf4 { [%clk 0:09:40] } 9... dxe5 { [%clk 0:04:36] } 10. Nxe5 { [%clk 0:09:37] } 10... Nd6 { [%clk 0:04:32] } 11. O-O { [%clk 0:09:32] } 11... Nd7 { [%clk 0:04:19] } 12. Nf3 { [%clk 0:09:27] } 12... Nf6 { [%clk 0:04:10] } 13. h3 { [%clk 0:09:25] } 13... h5 { [%clk 0:04:08] } 14. Rc1 { [%clk 0:09:17] } 14... Bf5 { [%clk 0:04:06] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/aobG1dIs"]
 [Date "2022.01.20"]
 [White "doniafendi"]
@@ -655,7 +655,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:09:59] } 4... d6 { [%clk 0:09:59] } 5. Be2 { [%clk 0:09:56] } 5... O-O { [%clk 0:09:58] } 6. f4 { [%clk 0:09:54] } 6... c5 { [%clk 0:09:57] } 7. Be3 { [%clk 0:09:49] } 7... cxd4 { [%clk 0:09:55] } 8. Bxd4 { [%clk 0:09:48] } 8... Nc6 { [%clk 0:09:55] } 9. Be3 { [%clk 0:09:47] } 9... Qa5 { [%clk 0:09:52] } 10. Qd2 { [%clk 0:09:41] } 10... Ng4 { [%clk 0:09:49] } 11. Bxg4 { [%clk 0:09:39] } 11... Bxg4 { [%clk 0:09:49] } 12. Nf3 { [%clk 0:09:38] } 12... Bxf3 { [%clk 0:09:48] } 13. gxf3 { [%clk 0:09:37] } 13... Rfc8 { [%clk 0:09:44] } 14. O-O { [%clk 0:09:13] } 14... Bxc3 { [%clk 0:09:29] } 15. bxc3 { [%clk 0:09:03] } 15... b6 { [%clk 0:09:21] } 16. Kh1 { [%clk 0:09:00] } 16... Qa4 { [%clk 0:09:18] } 17. f5 { [%clk 0:08:53] } 17... Qxc4 { [%clk 0:09:16] } 18. Rac1 { [%clk 0:08:34] } 18... Ne5 { [%clk 0:08:58] } 19. Bd4 { [%clk 0:08:23] } 19... Qd3 { [%clk 0:08:47] } 20. Qh6 { [%clk 0:08:07] } 20... Rc4 { [%clk 0:08:18] } 21. Rcd1 { [%clk 0:08:02] } 21... Qe2 { [%clk 0:07:58] } 22. Rde1 { [%clk 0:08:00] } 22... Qxa2 { [%clk 0:07:16] } 23. f4 { [%clk 0:07:51] } 23... Rxd4 { [%clk 0:07:07] } 24. fxe5 { [%clk 0:07:36] } 24... Qd2 { [%clk 0:06:38] } 25. Re3 { [%clk 0:07:13] } 25... dxe5 { [%clk 0:04:29] } 26. cxd4 { [%clk 0:07:11] } 26... exd4 { [%clk 0:04:28] } 27. Rh3 { [%clk 0:07:05] } 27... Qxh6 { [%clk 0:04:26] } 28. Rxh6 { [%clk 0:07:03] } 28... Kg7 { [%clk 0:04:20] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/uuUMJFMM"]
 [Date "2022.01.20"]
 [White "Master_Glader"]
@@ -676,7 +676,7 @@
 3. Nc3 { [%clk 0:05:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:04:58] } 4... O-O { [%clk 0:09:58] } 5. h3 { [%clk 0:04:57] } 5... c6 { [%clk 0:09:50] } 6. Nf3 { [%clk 0:04:57] } 6... d5 { [%clk 0:09:44] } 7. e5 { [%clk 0:04:56] } 7... Ne4 { [%clk 0:09:43] } 8. Bd3 { [%clk 0:04:55] } 8... Bf5 { [%clk 0:09:26] } 9. O-O { [%clk 0:04:52] } 9... Qa5 { [%clk 0:08:27] } 10. Qc2 { [%clk 0:04:43] } 10... Nxc3 { [%clk 0:08:18] } 11. bxc3 { [%clk 0:04:43] } 11... Bxd3 { [%clk 0:08:01] } 12. Qxd3 { [%clk 0:04:43] } 12... Qa6 { [%clk 0:07:45] } 13. Bg5 { [%clk 0:04:22] } 13... f6 { [%clk 0:07:38] } 14. Bf4 { [%clk 0:04:10] } 14... Nd7 { [%clk 0:07:29] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
@@ -697,7 +697,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:05:00] } 4. e4 { [%clk 0:09:59] } 4... O-O { [%clk 0:04:56] } 5. Nf3 { [%clk 0:09:57] } 5... c5 { [%clk 0:04:55] } 6. e5 { [%clk 0:09:51] } 6... Ne8 { [%clk 0:04:52] } 7. d5 { [%clk 0:09:49] } 7... a6 { [%clk 0:04:41] } 8. Be2 { [%clk 0:09:44] } 8... d6 { [%clk 0:04:40] } 9. Bf4 { [%clk 0:09:40] } 9... dxe5 { [%clk 0:04:36] } 10. Nxe5 { [%clk 0:09:37] } 10... Nd6 { [%clk 0:04:32] } 11. O-O { [%clk 0:09:32] } 11... Nd7 { [%clk 0:04:19] } 12. Nf3 { [%clk 0:09:27] } 12... Nf6 { [%clk 0:04:10] } 13. h3 { [%clk 0:09:25] } 13... h5 { [%clk 0:04:08] } 14. Rc1 { [%clk 0:09:17] } 14... Bf5 { [%clk 0:04:06] } 15. Nh4 { [%clk 0:09:08] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/uuUMJFMM"]
 [Date "2022.01.20"]
 [White "Master_Glader"]
@@ -718,7 +718,7 @@
 3. Nc3 { [%clk 0:05:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:04:58] } 4... O-O { [%clk 0:09:58] } 5. h3 { [%clk 0:04:57] } 5... c6 { [%clk 0:09:50] } 6. Nf3 { [%clk 0:04:57] } 6... d5 { [%clk 0:09:44] } 7. e5 { [%clk 0:04:56] } 7... Ne4 { [%clk 0:09:43] } 8. Bd3 { [%clk 0:04:55] } 8... Bf5 { [%clk 0:09:26] } 9. O-O { [%clk 0:04:52] } 9... Qa5 { [%clk 0:08:27] } 10. Qc2 { [%clk 0:04:43] } 10... Nxc3 { [%clk 0:08:18] } 11. bxc3 { [%clk 0:04:43] } 11... Bxd3 { [%clk 0:08:01] } 12. Qxd3 { [%clk 0:04:43] } 12... Qa6 { [%clk 0:07:45] } 13. Bg5 { [%clk 0:04:22] } 13... f6 { [%clk 0:07:38] } 14. Bf4 { [%clk 0:04:10] } 14... Nd7 { [%clk 0:07:29] } 15. Rfe1 { [%clk 0:04:01] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/aobG1dIs"]
 [Date "2022.01.20"]
 [White "doniafendi"]
@@ -740,7 +740,7 @@
 3. Nc3 { [%clk 0:10:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:09:59] } 4... d6 { [%clk 0:09:59] } 5. Be2 { [%clk 0:09:56] } 5... O-O { [%clk 0:09:58] } 6. f4 { [%clk 0:09:54] } 6... c5 { [%clk 0:09:57] } 7. Be3 { [%clk 0:09:49] } 7... cxd4 { [%clk 0:09:55] } 8. Bxd4 { [%clk 0:09:48] } 8... Nc6 { [%clk 0:09:55] } 9. Be3 { [%clk 0:09:47] } 9... Qa5 { [%clk 0:09:52] } 10. Qd2 { [%clk 0:09:41] } 10... Ng4 { [%clk 0:09:49] } 11. Bxg4 { [%clk 0:09:39] } 11... Bxg4 { [%clk 0:09:49] } 12. Nf3 { [%clk 0:09:38] } 12... Bxf3 { [%clk 0:09:48] } 13. gxf3 { [%clk 0:09:37] } 13... Rfc8 { [%clk 0:09:44] } 14. O-O { [%clk 0:09:13] } 14... Bxc3 { [%clk 0:09:29] } 15. bxc3 { [%clk 0:09:03] } 15... b6 { [%clk 0:09:21] } 16. Kh1 { [%clk 0:09:00] } 16... Qa4 { [%clk 0:09:18] } 17. f5 { [%clk 0:08:53] } 17... Qxc4 { [%clk 0:09:16] } 18. Rac1 { [%clk 0:08:34] } 18... Ne5 { [%clk 0:08:58] } 19. Bd4 { [%clk 0:08:23] } 19... Qd3 { [%clk 0:08:47] } 20. Qh6 { [%clk 0:08:07] } 20... Rc4 { [%clk 0:08:18] } 21. Rcd1 { [%clk 0:08:02] } 21... Qe2 { [%clk 0:07:58] } 22. Rde1 { [%clk 0:08:00] } 22... Qxa2 { [%clk 0:07:16] } 23. f4 { [%clk 0:07:51] } 23... Rxd4 { [%clk 0:07:07] } 24. fxe5 { [%clk 0:07:36] } 24... Qd2 { [%clk 0:06:38] } 25. Re3 { [%clk 0:07:13] } 25... dxe5 { [%clk 0:04:29] } 26. cxd4 { [%clk 0:07:11] } 26... exd4 { [%clk 0:04:28] } 27. Rh3 { [%clk 0:07:05] } 27... Qxh6 { [%clk 0:04:26] } 28. Rxh6 { [%clk 0:07:03] } 28... Kg7 { [%clk 0:04:20] } 29. Rh3 { [%clk 0:07:02] } 29... Rd8 { [%clk 0:04:14] } 30. Rd3 { [%clk 0:06:59] } 30... e5 { [%clk 0:04:11] } 31. fxe6 { [%clk 0:06:58] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/uuUMJFMM"]
 [Date "2022.01.20"]
 [White "Master_Glader"]
@@ -761,7 +761,7 @@
 3. Nc3 { [%clk 0:05:00] } 3... Bg7 { [%clk 0:10:00] } 4. e4 { [%clk 0:04:58] } 4... O-O { [%clk 0:09:58] } 5. h3 { [%clk 0:04:57] } 5... c6 { [%clk 0:09:50] } 6. Nf3 { [%clk 0:04:57] } 6... d5 { [%clk 0:09:44] } 7. e5 { [%clk 0:04:56] } 7... Ne4 { [%clk 0:09:43] } 8. Bd3 { [%clk 0:04:55] } 8... Bf5 { [%clk 0:09:26] } 9. O-O { [%clk 0:04:52] } 9... Qa5 { [%clk 0:08:27] } 10. Qc2 { [%clk 0:04:43] } 10... Nxc3 { [%clk 0:08:18] } 11. bxc3 { [%clk 0:04:43] } 11... Bxd3 { [%clk 0:08:01] } 12. Qxd3 { [%clk 0:04:43] } 12... Qa6 { [%clk 0:07:45] } 13. Bg5 { [%clk 0:04:22] } 13... f6 { [%clk 0:07:38] } 14. Bf4 { [%clk 0:04:10] } 14... Nd7 { [%clk 0:07:29] } 15. Rfe1 { [%clk 0:04:01] } 15... Qxc4 { [%clk 0:07:12] } *
 
 
- [Event "King's Indian Defence Rapid Arena"]
+[Event "King's Indian Defence Rapid Arena"]
 [Site "https://lichess.org/VMdAdGcQ"]
 [Date "2022.01.20"]
 [White "Mikel_1964"]
